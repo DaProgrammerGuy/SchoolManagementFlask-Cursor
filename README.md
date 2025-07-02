@@ -1,4 +1,4 @@
-# SchoolManagementFlaskV2
+# SchoolManagementFlask-Cursor
 
 ## Modular Project Structure
 
