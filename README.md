@@ -1,0 +1,1 @@
+# SchoolManagementFlask-Cursor
