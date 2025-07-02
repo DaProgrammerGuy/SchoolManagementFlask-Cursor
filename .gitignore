@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# SQLite DB
+*.db
+
+# PyCharm/IntelliJ
+.idea/
+.vscode
+
+# Migrations (optional cleanup)
+migrations/__pycache__/
+migrations/versions/__pycache__/
